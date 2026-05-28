@@ -312,7 +312,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-**Built with ❤️ by [Tasawar](https://github.com/YOUR_USERNAME)**
+**Built with ❤️ by [Tasawar](https://github.com/tasawarkhan-prog/)**
 
 [![HuggingFace Space](https://img.shields.io/badge/🤗%20Live%20Demo-ResumeRadar-FFD21E?style=flat-square)](https://huggingface.co/spaces/Tasawar-prog1/ResumeRadar)
 
